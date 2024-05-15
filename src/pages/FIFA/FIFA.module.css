@@ -35,18 +35,18 @@
     margin: 0 5px;
     border: none;
     border-radius: 4px;
-    background-color: #007bff;
+    background-color: #8c20b3;
     color: #fff;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
 .pagButton:hover {
-    background-color: #0056b3;
+    background-color: #811c96;
 }
 
 .pagButton.active {
-    background-color: #0056b3;
+    background-color: #a728c7;
 }
 
 .pagButton:disabled {
@@ -78,12 +78,12 @@
 .fifaTable th {
     font-size: 18px;
     font-weight: bold;
-    color: #333;
+    color: #a025ad;
 }
 
 .fifaTable td {
     font-size: 14px;
-    color: #666;
+    color: #981dab;
 }
 
 /* Estilos para a Paginação do FIFA */
@@ -99,18 +99,18 @@
     margin: 0 5px;
     border: none;
     border-radius: 4px;
-    background-color: #007bff;
+    background-color: #8517bc;
     color: #fff;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
 .fifaPaginationButton:hover {
-    background-color: #0056b3;
+    background-color: #9114be;
 }
 
 .fifaPaginationButton.active {
-    background-color: #0056b3;
+    background-color: #8523da;
 }
 
 .fifaPaginationButton:disabled {
@@ -141,12 +141,12 @@
 .table th {
     font-size: 18px;
     font-weight: bold;
-    color: #333;
+    color: #992ecf;
 }
 
 .table td {
     font-size: 14px;
-    color: #666;
+    color: #722d8d;
 }
 
 /* Estilos para a Paginação */
@@ -162,18 +162,18 @@
     margin: 0 5px;
     border: none;
     border-radius: 4px;
-    background-color: #007bff;
+    background-color: #9c31b7;
     color: #fff;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
 .paginationButton:hover {
-    background-color: #0056b3;
+    background-color: #69189f;
 }
 
 .paginationButton.active {
-    background-color: #0056b3;
+    background-color: #7e13af;
 }
 
 .paginationButton:disabled {

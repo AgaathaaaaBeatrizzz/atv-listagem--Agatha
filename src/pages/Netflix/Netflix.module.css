@@ -35,18 +35,18 @@
     margin: 0 5px;
     border: none;
     border-radius: 4px;
-    background-color: #007bff;
+    background-color: #7c22b8;
     color: #fff;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
 .pagButton:hover {
-    background-color: #0056b3;
+    background-color: #8f36d3;
 }
 
 .pagButton.active {
-    background-color: #0056b3;
+    background-color: #7536b5;
 }
 
 .pagButton:disabled {
@@ -83,7 +83,7 @@
 
 .ctnTitulos td {
     font-size: 14px;
-    color: #666;
+    color: #a236cd;
 }
 
 /* Estilos para a Paginação da Netflix */
@@ -99,18 +99,18 @@
     margin: 0 5px;
     border: none;
     border-radius: 4px;
-    background-color: #007bff;
+    background-color: #5312a3;
     color: #fff;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
 .paginationButton:hover {
-    background-color: #0056b3;
+    background-color: #7a25ac;
 }
 
 .paginationButton.active {
-    background-color: #0056b3;
+    background-color: #7a25ac;
 }
 
 .paginationButton:disabled {
